@@ -1,4 +1,4 @@
-spring:
+n githubspring:
 # Database
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
@@ -15,4 +15,4 @@ spring:
     open-in-view: false
     generate-ddl: true
 
-service-message: this is dev environment properties
+service-message: this is dev environment properties configured in github
