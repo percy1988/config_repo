@@ -15,4 +15,4 @@ n githubspring:
     open-in-view: false
     generate-ddl: true
 
-service-message: this is dev environment properties configured in github
+service-message: this is dev environment properties configured in github repos
