@@ -1,5 +1,4 @@
 spring:
-  # Database
 # Database
   datasource:
     driver-class-name: org.postgresql.Driver
